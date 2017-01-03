@@ -1,0 +1,9 @@
+wildlife/WildlifeController.class
+wildlife/model/Animal.class
+location/GPSLocation.class
+wildlife/model/AnimalClass.class
+wildlife/model/AnimalDangerMatrix.class
+wildlife/Application.class
+wildlife/model/Wildlife.class
+wildlife/model/Plant.class
+location/Direction.class
